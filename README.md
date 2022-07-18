@@ -1,5 +1,5 @@
 <h1 align="left">Hi 👋, I'm Mano Vishnu</h1>
-<h3 align="left">Data Science Engineer || Aspiring Data Scientist || Machine Learning Enthusiast</h3>
+<h3 align="left">Senior Data Science Engineer @ Gramener || Machine Learning Enthusiast</h3>
 
 <p> <img src="https://komarev.com/ghpvc/?username=amanovishnu&label=Profile%20views&color=0e75b6&style=flat" alt="amanovishnu" /> </p>
 
