@@ -5,11 +5,11 @@
 
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=amanovishnu" alt="amanovishnu" /></a> </p> -->
 
-- 🌱 I’m currently learning **Deep Learning and Object Detection Techniques**
+- 🌱 I’m currently learning **HLD, LLD and Design Patterns**
 
 - 👨‍💻 All of my projects are available at [https://github.com/amanovishnu](https://github.com/amanovishnu)
 
-- 💬 Ask me about **Web Scrapping, Data Visualization, Exploratory Data Analysis**
+- 💬 Ask me about **Web Scrapping, Data Visualization & Exploratory Data Analysis**
 
 - 📫 How to reach me **geekymano@gmail.com**
 
