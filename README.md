@@ -1,4 +1,4 @@
-# 🤵 ABOUT ME [![](https://visitcount.itsvg.in/api?id=amanovishnu&icon=0&color=1)](https://visitcount.itsvg.in)
+# 🤵 About Me: [![](https://visitcount.itsvg.in/api?id=amanovishnu&icon=0&color=1)](https://visitcount.itsvg.in)
 🌱 I’m currently learning HLD, LLD and Design Patterns<br>👨‍💻 All of my projects are available at https://github.com/amanovishnu<br>💬 Ask me about Web Scrapping, Data Visualization & Exploratory Data Analysis<br>📫 How to reach me geekymano@gmail.com
 
 
