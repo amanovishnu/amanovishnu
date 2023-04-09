@@ -1,7 +1,7 @@
 # 🤵 About Me: [![](https://visitcount.itsvg.in/api?id=amanovishnu&icon=0&color=1)](https://visitcount.itsvg.in)
 🌱 I’m currently learning HLD, LLD and Design Patterns<br>👨‍💻 All of my projects are available at https://github.com/amanovishnu<br>💬 Ask me about Web Scrapping, Data Visualization & Exploratory Data Analysis<br>📫 How to reach me geekymano@gmail.com
 
-
+<img align="right" alt="Coding" src="https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" style="max-width: 100%; display: inline-block;">
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/amanovishnu) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/amanovishnu) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@amanovishnu) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/amanovishnu) 
 
