@@ -3,8 +3,8 @@
 <img src="https://komarev.com/ghpvc/?username=amanovishnu&label=Profile%20views&color=0e75b6&style=flat" alt="amanovishnu" /> </p>
 
 
-- 🔭 I’m currently working on [foodhub](https://github.com/amanovishnu/foodhub)
-- 🌱 I’m currently learning **Deep Learning, HLD, LLD & Design Patterns**
+- 🔭 I’m currently working on AI Agents
+- 🌱 I’m currently learning **GraphRAG, HLD, LLD & Design Patterns**
 - 👨‍💻 All of my projects are available at [https://github.com/amanovishnu](https://github.com/amanovishnu)
 - 💬 Ask me about **Django, Flask, React, Elasticsearch**
 - 📫 How to reach me **geekymano@gmail.com**
