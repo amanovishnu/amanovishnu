@@ -9,22 +9,8 @@
 - 💬 Feel free to ask me about **Fast-API, Django, Flask, React, Elasticsearch**
 - 📫 You can reach me at **geekymano@gmail.com**
 - 📄 Check out my experience on [https://www.linkedin.com/in/amanovishnu/](https://www.linkedin.com/in/amanovishnu/)
-
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/amanovishnu" target="blank">
-<img align="center" src="https://skillicons.dev/icons?i=linkedin&theme=light"/>
-</a>
-<a href="https://stackoverflow.com/users/amanovishnu" target="blank">
-<img align="center" src="https://skillicons.dev/icons?i=stackoverflow&theme=light"/>
-</a>
-<a href="https://www.leetcode.com/amanovishnu" target="blank">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" height="38" width="38" style="background-color:black; padding:5px; border-radius:10px" />
-</a>
-</p>
-
-
+- 📄 Check out my LeetCode profile at [https://www.leetcode.com/amanovishnu](https://www.leetcode.com/amanovishnu)
+- 📄 Visit my Stack Overflow profile here: [https://stackoverflow.com/users/amanovishnu](https://stackoverflow.com/users/amanovishnu)
 
 
 <h3 align="left">Languages and Tools:</h3>
